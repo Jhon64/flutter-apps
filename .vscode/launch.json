@@ -1,0 +1,148 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "app_login",
+      "cwd": "app_login",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "app_login (profile mode)",
+      "cwd": "app_login",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "app_login (release mode)",
+      "cwd": "app_login",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "filas_columnas",
+      "cwd": "filas_columnas",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "filas_columnas (profile mode)",
+      "cwd": "filas_columnas",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "filas_columnas (release mode)",
+      "cwd": "filas_columnas",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "hello_worldf",
+      "cwd": "hello_worldf",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "hello_worldf (profile mode)",
+      "cwd": "hello_worldf",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "hello_worldf (release mode)",
+      "cwd": "hello_worldf",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "list_imagenes",
+      "cwd": "list_imagenes",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "list_imagenes (profile mode)",
+      "cwd": "list_imagenes",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "list_imagenes (release mode)",
+      "cwd": "list_imagenes",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "list_view",
+      "cwd": "list_view",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "list_view (profile mode)",
+      "cwd": "list_view",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "list_view (release mode)",
+      "cwd": "list_view",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "primer_widget",
+      "cwd": "primer_widget",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "primer_widget (profile mode)",
+      "cwd": "primer_widget",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "primer_widget (release mode)",
+      "cwd": "primer_widget",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "statefull_widget",
+      "cwd": "statefull_widget",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "statefull_widget (profile mode)",
+      "cwd": "statefull_widget",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "statefull_widget (release mode)",
+      "cwd": "statefull_widget",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
